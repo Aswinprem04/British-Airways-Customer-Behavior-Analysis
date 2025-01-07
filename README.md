@@ -14,12 +14,13 @@ This project is a part of the Data Science virtual internship program offered by
 Customers who book a flight with BA will experience many interaction points with the BA brand. Understanding a customer's feelings, needs, and feedback is crucial for any business, including BA.
 
 This first task is focused on scraping and collecting customer feedback and reviewing data from a third-party source and analysing this data to present any insights you may uncover.
+![Task 1](https://github.com/user-attachments/assets/9bdc27f2-b790-40c4-9ea6-d0adfd9d3cd5)
 
 Customer review data for Britis Airways was collected from [Skytrax](https://www.airlinequality.com/airline-reviews/british-airways).
 
 Following insights were uncovered as they are summed up in the one slide presentation.
 
-![image](https://user-images.githubusercontent.com/89634505/201470985-159e17d2-605d-46c1-a9f1-8d0cdd147245.png)
+![Task 1](https://github.com/user-attachments/assets/9bdc27f2-b790-40c4-9ea6-d0adfd9d3cd5)
 
 ### Task 2 - Predicting customer buying behaviour
 
