@@ -1,4 +1,4 @@
-# British-Airways-Data-Science-Virtual-Internship-Project
+# British Airways Customer Behavior Analysis
 
 This project is a part of the Data Science virtual internship program offered by Forage with British Airways. 
 
